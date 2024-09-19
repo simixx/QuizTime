@@ -10,4 +10,5 @@ Currently, two official plugins are available:
 =======
 # QuizTime
 MCQ game app
+TRY HERE- https://game-delta-vert.vercel.app/
 >>>>>>> origin/main
